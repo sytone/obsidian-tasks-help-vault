@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
   },
   "active": "cbea9b09af9379c3",
   "lastOpenFiles": [
-    "README.md.md",
+    "README.md",
     "01 SQL Queries/01 SQL Queries.md",
     "List of static tasks.md",
     "GitHub/List of static tasks 02.md",
