@@ -1,0 +1,29 @@
+{
+  "globalFilter": "",
+  "removeGlobalFilter": false,
+  "setDoneDate": true,
+  "status_types": [
+    [
+      "",
+      "",
+      ""
+    ]
+  ],
+  "features": {
+    "TASK_STATUS_MENU": false,
+    "APPEND_GLOBAL_FILTER": false,
+    "ENABLE_SQL_QUERY": true
+  },
+  "generalSettings": {
+    "globalFilter": "",
+    "removeGlobalFilter": false,
+    "setDoneDate": true
+  },
+  "headingOpened": {
+    "Tasks, SQL Powered": true,
+    "Task Settings": true,
+    "Documentation and Support": true,
+    "Optional or in development features": true,
+    "Tasks Status Types": true
+  }
+}
