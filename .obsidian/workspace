@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "01 SQL Queries/01 SQL Queries.md",
             "mode": "source",
             "source": false
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01 SQL Queries/01 SQL Queries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,12 +127,12 @@
   },
   "active": "cbea9b09af9379c3",
   "lastOpenFiles": [
-    "README.md",
     "01 SQL Queries/01 SQL Queries.md",
-    "List of static tasks.md",
-    "GitHub/List of static tasks 02.md",
+    "README.md",
+    "Example Data/List of static tasks.md",
+    "Example Data/GitHub/List of static tasks 02.md",
     "01 SQL Queries/01 Available Columns.md",
-    "List of random tasks.md",
+    "Example Data/List of random tasks.md",
     "01 SQL Queries/01 See Raw Query Output.md",
     "01 SQL Queries/01 Basic SQL Queries.md",
     "00 Introduction/00 Introduction.md",
