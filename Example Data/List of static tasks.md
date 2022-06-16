@@ -18,6 +18,17 @@
 - [ ] Listen to Music from Your Childhood #People 🔽 📅 2022-08-10 ⏳ 2022-07-23
 - [x] Contact a Friend Abroad 🛫 2022-07-24 ⏳ 2022-08-08 ✅ 2022-05-30
 
+## Work Tagged Tasks
+- [ ] Make a report #work
+- [ ] Speak to client #work 
+- [ ] Fix a bug #work 
+
+## Home Tagged Tasks
+
+- [ ] Make dinner #home
+- [ ] Feed the dog #home 
+- [ ] Wash the cat #home 
+
 ## Tasks
 - [ ] Listen to the #1 Charted Song from the Day of Your Birth #Chores 🔼 📅 2022-06-25
 - [x] Play Skribbl.io Online (Draw and Guess) #ShallowWork 🔼 📅 2022-07-15 ✅ 2022-05-30

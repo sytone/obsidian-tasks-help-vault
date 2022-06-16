@@ -38,3 +38,22 @@ SELECT moment() AS Moment, Date() AS JSDate, 'Some String' AS AString, 42 AS ANu
 
 
 
+    ```task-sql
+    SELECT *
+    FROM tasks
+    WHERE status->indicator = ' ' AND  moment()->format('YYYY-MM-DD') = moment(dueDate)->format('YYYY-MM-DD')
+    LIMIT 1
+    #raw tasks
+    ```
+
+
+```task-sql
+SELECT *
+FROM tasks
+WHERE tags->includes('#Chores')
+LIMIT 10
+#raw tasks
+```
+
+
+

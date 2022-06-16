@@ -79,6 +79,7 @@ WHERE description LIKE '%trash%'
 
 
 
+
 Look at the [SQL Compatibility](https://github.com/AlaSQL/alasql/wiki/SQL%20keywords) table to see what SQL commands are supported.
 
 ### Object Properties & Functions
