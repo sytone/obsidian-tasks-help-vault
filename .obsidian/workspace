@@ -4,66 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "80d3121c4b75d62a",
-        "type": "split",
-        "children": [
-          {
-            "id": "dd6564946f96e9ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 SQL Queries/02 Change filter based on time of day.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74d39b9ff93c0a5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 SQL Queries/01 See Raw Query Output.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "6bf256aa2bed01b3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00 Introduction/00 Introduction.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       },
       {
-        "id": "3ed12335be16d462",
-        "type": "split",
-        "children": [
-          {
-            "id": "6bf256aa2bed01b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 SQL Queries/01 SQL Queries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cbea9b09af9379c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Example Data/List of static tasks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+        "id": "968c803c389f3500",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01 SQL Queries/01 SQL Queries.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -100,20 +62,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "9d1874545174635f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b21224d60444c5cf",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -133,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 SQL Queries/02 Change filter based on time of day.md",
+                "file": "00 Introduction/00 Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,17 +111,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dd6564946f96e9ad",
+  "active": "6bf256aa2bed01b3",
   "lastOpenFiles": [
-    "01 SQL Queries/02 Change filter based on time of day.md",
+    "00 Introduction/00 Introduction.md",
     "01 SQL Queries/01 SQL Queries.md",
+    "README.md",
+    "01 SQL Queries/02 Change filter based on time of day.md",
     "01 SQL Queries/01 See Raw Query Output.md",
     "Example Data/List of static tasks.md",
     "Example Data/List of random tasks.md",
-    "00 Introduction/00 Introduction.md",
     "01 SQL Queries/01 Available Columns.md",
     "04 Styling/ITS Theme Styles.md",
-    "04 Styling/ITSThemeTasks.png",
-    "04 Styling/Input Styling Links.md"
+    "04 Styling/ITSThemeTasks.png"
   ]
 }
